@@ -75,8 +75,3 @@ ICPs são excluídos da estimação, mas sua referência vem do mesmo levantamen
 não constituem verdade externa. Q-ST é a variante implementada com matriz livre
 afim. Campos complementares exportados não são critérios adicionais de remoção.
 
-## Antes da publicação
-
-A licença e a autorização para redistribuir os dados devem ser definidas pelo
-autor antes do envio. Ainda não foi atribuída uma licença open-source. A pasta
-está preparada localmente; nada foi publicado no GitHub.
